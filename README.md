@@ -4,7 +4,7 @@
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
+		<h3>Demo</h3>
 	</a>
 </p>
 <br />
